@@ -7,6 +7,7 @@ Construyendo mi portafolio con proyectos en Python, SQL y C#, incluyendo un sist
 Building my portfolio with Python, SQL, and C# projects, including a remote greenhouse system mainly developed in C#.
 
 Herramientas que uso / Tools I use
+
 C#/.NET (backend y automatización)
 
 Python (FastAPI, Flask)
