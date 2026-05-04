@@ -16,6 +16,7 @@ SQL/MySQL
 Git, VS Code, PowerShell
 
 📫 Cómo contactarme / How to reach me
+
 GitHub: https://github.com/NOICH07
 
 Email: ivanoich0123@gmail.com
